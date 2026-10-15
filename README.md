@@ -9,3 +9,7 @@ I am going to learn how to open file in python so the logger has somewhere to wr
 
 Session 3 7;48 PM 10/14/2026
 I just realized the logger only took one message then stopped so I changed it so it continued logging input until told to stop. I don't know how yet but my next step is learning how to connect the files together with the subprocesses module. I will spend some time to learn it after I go to the gym.
+
+Session 4 1;45 PM 10/15/2026
+Learned how different files talk through pipes. Updated the driver file to see if it could work together with the logger file. Created a small test demo to see it work myself. I now plan on working on the encryption aspect and learn how to do it using maybe loops is what I'm thinking would work best.
+
