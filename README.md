@@ -13,3 +13,5 @@ I just realized the logger only took one message then stopped so I changed it so
 Session 4 1;45 PM 10/15/2026
 Learned how different files talk through pipes. Updated the driver file to see if it could work together with the logger file. Created a small test demo to see it work myself. I now plan on working on the encryption aspect and learn how to do it using maybe loops is what I'm thinking would work best.
 
+Session 5 2;15 PM 10/15/2026
+Began to create the encryption I don't know how to encrypt it yet I need to search it up but I at least made it so all the text inputted is capitalized. After like 15 mins of research I found a good way to encrypt input. Now when the user inputs it will return an encrypted version of their input.
