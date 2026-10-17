@@ -15,3 +15,6 @@ Learned how different files talk through pipes. Updated the driver file to see i
 
 Session 5 2;15 PM 10/15/2026
 Began to create the encryption I don't know how to encrypt it yet I need to search it up but I at least made it so all the text inputted is capitalized. After like 15 mins of research I found a good way to encrypt input. Now when the user inputs it will return an encrypted version of their input.
+
+Session 6 8;28 PM 10/16/2026
+I am going to get a lot of the project done in this session and hopefully finish it by late tonight. I am going to work on making it so the function accepts the message and the key. The letters should shift depending on the letters in the password. Now I am going to reverse it for the decryption process. To do this I think instead of how encryption uses addition the decryption will use subtraction. I am going to add a option for the user to select either to encrypt or decrypt.
